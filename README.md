@@ -1,7 +1,7 @@
 kawarijs
 ========
 
-A simple sprintf library for Javascript
+A simple sprintf library for Node.js and the browser.
 
 Majority of the code is from http://www.webtoolkit.info/javascript-sprintf.html
 
