@@ -20,6 +20,7 @@ This is limited sprintf Javascript implementation. Function returns a string for
 * %s – String
 * %x – Hexadecimal number (lowercase letters)
 * %X – Hexadecimal number (uppercase letters)
+
 Additional format values. These are placed between the % and the letter (example %.2f):
 
 * \+ (Forces both + and – in front of numbers. By default, only negative numbers are marked)
