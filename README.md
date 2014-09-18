@@ -1,4 +1,4 @@
-kawarijs
+kawari.js
 ========
 
 A simple sprintf library for Node.js and the browser.
