@@ -1,7 +1,7 @@
 kawarijs
 ========
 
-A simple sprintf library for Javascript
+A simple sprintf library for Node.js and the browser.
 
 Majority of the code is from http://www.webtoolkit.info/javascript-sprintf.html
 
@@ -30,3 +30,6 @@ Additional format values. These are placed between the % and the letter (example
 * .\[0-9] (Specifies the number of decimal digits or maximum string length)
 
 If you plan using UTF-8 encoding in your project don’t forget to set the page encoding to UTF-8 (Content-Type meta tag), and use Javascript UTF-8 utility found on this website.
+
+###TODO
+* Tests
