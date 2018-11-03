@@ -1,6 +1,8 @@
 kawari.js
 ========
 
+[![Greenkeeper badge](https://badges.greenkeeper.io/iwatakeshi/kawarijs.svg)](https://greenkeeper.io/)
+
 A simple sprintf library for Node.js and the browser.
 
 Majority of the code is from http://www.webtoolkit.info/javascript-sprintf.html
